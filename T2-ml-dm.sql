@@ -1,12 +1,5 @@
---****PLEASE ENTER YOUR DETAILS BELOW****
 --T2-ml-dm.sql
-
---Student ID: 30806151
---Student Name: Tatiana Sutulova 
---Tutorial No: Assignment 2A 
-
-/* Comments for your marker:
-*/
+-- Author: Tatiana Sutulova 
 
 -- 2 (b) (i)
 --Insert new book
