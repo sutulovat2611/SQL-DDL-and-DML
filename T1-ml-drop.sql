@@ -1,14 +1,5 @@
---****PLEASE ENTER YOUR DETAILS BELOW****
 --T1-ml-drop.sql
-
---Student ID: 30806151
---Student Name: Tatiana Sutulova 
---Tutorial No: Assignment 2A 
-
-/* Comments for your marker:
-    Drops all the tables, including the one created in task 3, otherwise it gives an error
-    "unique/primary keys in table referenced by foreign keys.."
-*/
+- Author: Tatiana Sutulova 
 
 -- 1.2 Add Drop table statements for ALL table below (not just those created
 -- in this script)use ONLY
