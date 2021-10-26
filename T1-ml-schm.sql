@@ -1,12 +1,5 @@
---****PLEASE ENTER YOUR DETAILS BELOW****
 --T1-ml-schm.sql
-
---Student ID: 30806151
---Student Name: Tatiana Sutulova 
---Tutorial No: Assignment 2A 
-
-/* Comments for your marker:
-*/
+--Author: Tatiana Sutulova 
 
 -- 1.1 Add Create table statments for the Missing TABLES below
 -- Ensure all column comments, and constraints (other than FK's)
