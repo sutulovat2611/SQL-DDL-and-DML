@@ -1,9 +1,5 @@
---****PLEASE ENTER YOUR DETAILS BELOW****
 --T2-ml-insert.sql
-
---Student ID: 30806151
---Student Name: Tatiana Sutulova 
---Tutorial No: Assignment 2A 
+--Author: Tatiana Sutulova 
 
 /* Comments for your marker:
     When book copy is inserted, the branch_count_books in branch table is increased by 1
