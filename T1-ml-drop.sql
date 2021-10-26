@@ -1,5 +1,5 @@
 --T1-ml-drop.sql
-- Author: Tatiana Sutulova 
+-- Author: Tatiana Sutulova 
 
 -- 1.2 Add Drop table statements for ALL table below (not just those created
 -- in this script)use ONLY
