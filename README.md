@@ -1,5 +1,6 @@
 # SQL-DDL-and-DML
-I was supplied with an SQL script mlib_initialSchemaInsert.sql which partially implements the MLib model (represented on the diagram provided before). It creates the table colored in purple and inserts some initial sample data.
+![Picture](https://user-images.githubusercontent.com/91307462/139055824-c25eaaec-209e-4d5b-9b73-820de735ad20.png)
+I was supplied with an SQL script mlib_initialSchemaInsert.sql which partially implements the MLib model (represented on the diagram above). It creates the tables colored in purple and inserts some initial sample data.
 
 ## T1-ml-schm.sql
 Adding the CREATE TABLE and CONSTRAINT definitions which are mission from the supplied partial schema script.
